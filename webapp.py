@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 import wave
 import os
-
+#steg
 
 # Function to convert a message into binary format
 def msgtobinary(msg):
